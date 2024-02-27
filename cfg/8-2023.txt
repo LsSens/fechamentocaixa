@@ -1,0 +1,39 @@
+DIA 01: R$ 1,923.50
+DIA 02: R$ 3,597.50
+DIA 03: R$ 4,784.95
+DIA 04: R$ 5,287.10
+DIA 05: R$ 9,034.00
+DIA 06: R$ 0
+DIA 07: R$ 3,627.45
+DIA 08: R$ 2,140.85
+DIA 09: R$ 2,430.55
+DIA 10: R$ 3,105.00
+DIA 11: R$ 3,784.90
+DIA 12: R$ 7,053.95
+DIA 13: R$ 0
+DIA 14: R$ 1,439.15
+DIA 15: R$ 3,270.30
+DIA 16: R$ 1,990.15
+DIA 17: R$ 3,813.80
+DIA 18: R$ 4,976.35
+DIA 19: R$ 5,749.35
+DIA 20: R$ 0
+DIA 21: R$ 3,925.25
+DIA 22: R$ 2,177.00
+DIA 23: R$ 6,135.15
+DIA 24: R$ 2,273.05
+DIA 25: R$ 1,013.80
+DIA 26: R$ 1,970.55
+DIA 27: R$ 0
+DIA 28: R$ 2,214.80
+DIA 29: R$ 1,553.90
+DIA 30: R$ 4,153.55
+DIA 31: R$ 2,855.25
+
+Total: R$ 96,281.15
+Meta maxima: R$ 85,895.23
+Meta mínima: R$ 73,010.94
+Vocês passou a meta total em: R$ 10,385.92
+Você passou a meta mínima em: R$ 23,270.21
+Você bateu a meta total!
+Você bateu a meta mínima!
